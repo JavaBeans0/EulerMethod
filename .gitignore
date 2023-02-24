@@ -1,6 +1,6 @@
 .DS_Store
 .idea/*
-CubicSplineInterpolation.*
+EulerMethod.*
 out/
 src/.DS_Store
 target
